@@ -1,2 +1,2 @@
 # LautrecSec-Blog
-Blog Project
+Blog Project to display my stream of consciousness via the interwebz
